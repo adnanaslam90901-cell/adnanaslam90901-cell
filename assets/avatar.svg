@@ -11,100 +11,40 @@
 <style>
 @keyframes sw{from{transform:translateX(0)}to{transform:translateX(792px)}}
 .sw{animation:sw 6s linear infinite}
-@keyframes t0{0%,78%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}86%{transform:scale(2.4) rotate(165deg);filter:blur(1.8px) brightness(1.45)}94%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
+@keyframes t0{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.28) rotate(25deg);filter:blur(0.45px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
 .t0{animation:t0 14s ease-in-out infinite}
-@keyframes t1{0%,78%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}86%{transform:scale(2.0) rotate(-140deg);filter:blur(1.5px) brightness(1.45)}94%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
+@keyframes t1{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.2) rotate(-21deg);filter:blur(0.38px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
 .t1{animation:t1 14s ease-in-out infinite}
-@keyframes t2{0%,78%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}86%{transform:scale(2.8) rotate(205deg);filter:blur(2.1px) brightness(1.45)}94%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
+@keyframes t2{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.36) rotate(31deg);filter:blur(0.53px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
 .t2{animation:t2 14s ease-in-out infinite}
-@keyframes t3{0%,78%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}86%{transform:scale(1.9) rotate(-190deg);filter:blur(1.4px) brightness(1.45)}94%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
+@keyframes t3{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.18) rotate(-28deg);filter:blur(0.35px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
 .t3{animation:t3 14s ease-in-out infinite}
-@keyframes t4{0%,78%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}86%{transform:scale(2.6) rotate(120deg);filter:blur(1.9px) brightness(1.45)}94%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
+@keyframes t4{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.32) rotate(18deg);filter:blur(0.47px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
 .t4{animation:t4 14s ease-in-out infinite}
-@keyframes t5{0%,78%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}86%{transform:scale(2.2) rotate(-225deg);filter:blur(1.7px) brightness(1.45)}94%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
+@keyframes t5{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.24) rotate(-34deg);filter:blur(0.42px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
 .t5{animation:t5 14s ease-in-out infinite}
 @media (prefers-reduced-motion:reduce){.sw,[class^=t]{animation:none}}
 </style>
 <g mask="url(#ga)"><use xlink:href="#ph"/></g>
 <g mask="url(#wv)"><g mask="url(#ga)"><use xlink:href="#pl"/></g></g>
-<g transform="translate(259.0,301.0)"><g class="t0" style="animation-delay:-8.04s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-259.0" y="-301.0"/></g></g></g>
-<g transform="translate(329.0,147.0)"><g class="t4" style="animation-delay:-6.93s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-329.0" y="-147.0"/></g></g></g>
-<g transform="translate(301.0,371.0)"><g class="t2" style="animation-delay:-10.21s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-301.0" y="-371.0"/></g></g></g>
-<g transform="translate(189.0,483.0)"><g class="t2" style="animation-delay:-8.53s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-189.0" y="-483.0"/></g></g></g>
-<g transform="translate(315.0,63.0)"><g class="t0" style="animation-delay:-1.65s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-315.0" y="-63.0"/></g></g></g>
-<g transform="translate(203.0,91.0)"><g class="t3" style="animation-delay:-2.31s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-203.0" y="-91.0"/></g></g></g>
-<g transform="translate(385.0,539.0)"><g class="t2" style="animation-delay:-2.13s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-385.0" y="-539.0"/></g></g></g>
-<g transform="translate(217.0,441.0)"><g class="t3" style="animation-delay:-5.9s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-217.0" y="-441.0"/></g></g></g>
-<g transform="translate(273.0,105.0)"><g class="t5" style="animation-delay:-1.09s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-273.0" y="-105.0"/></g></g></g>
-<g transform="translate(371.0,343.0)"><g class="t4" style="animation-delay:-8.02s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-371.0" y="-343.0"/></g></g></g>
-<g transform="translate(329.0,455.0)"><g class="t2" style="animation-delay:-4.76s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-329.0" y="-455.0"/></g></g></g>
-<g transform="translate(231.0,77.0)"><g class="t2" style="animation-delay:-8.32s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-231.0" y="-77.0"/></g></g></g>
-<g transform="translate(287.0,427.0)"><g class="t4" style="animation-delay:-11.16s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-287.0" y="-427.0"/></g></g></g>
-<g transform="translate(273.0,203.0)"><g class="t0" style="animation-delay:-11.76s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-273.0" y="-203.0"/></g></g></g>
-<g transform="translate(161.0,63.0)"><g class="t2" style="animation-delay:-6.64s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-161.0" y="-63.0"/></g></g></g>
-<g transform="translate(161.0,105.0)"><g class="t5" style="animation-delay:-0.91s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-161.0" y="-105.0"/></g></g></g>
-<g transform="translate(133.0,399.0)"><g class="t5" style="animation-delay:-9.82s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-133.0" y="-399.0"/></g></g></g>
-<g transform="translate(301.0,385.0)"><g class="t5" style="animation-delay:-8.09s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-301.0" y="-385.0"/></g></g></g>
-<g transform="translate(161.0,91.0)"><g class="t5" style="animation-delay:-11.51s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-161.0" y="-91.0"/></g></g></g>
-<g transform="translate(147.0,231.0)"><g class="t2" style="animation-delay:-10.03s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-147.0" y="-231.0"/></g></g></g>
-<g transform="translate(217.0,105.0)"><g class="t5" style="animation-delay:-4.86s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-217.0" y="-105.0"/></g></g></g>
-<g transform="translate(441.0,441.0)"><g class="t3" style="animation-delay:-4.98s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-441.0" y="-441.0"/></g></g></g>
-<g transform="translate(385.0,385.0)"><g class="t4" style="animation-delay:-1.64s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-385.0" y="-385.0"/></g></g></g>
-<g transform="translate(245.0,77.0)"><g class="t0" style="animation-delay:-3.05s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-245.0" y="-77.0"/></g></g></g>
-<g transform="translate(469.0,539.0)"><g class="t2" style="animation-delay:-1.81s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-469.0" y="-539.0"/></g></g></g>
-<g transform="translate(91.0,455.0)"><g class="t1" style="animation-delay:-5.57s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-91.0" y="-455.0"/></g></g></g>
-<g transform="translate(189.0,133.0)"><g class="t3" style="animation-delay:-1.13s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-189.0" y="-133.0"/></g></g></g>
-<g transform="translate(147.0,217.0)"><g class="t3" style="animation-delay:-5.62s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-147.0" y="-217.0"/></g></g></g>
-<g transform="translate(455.0,469.0)"><g class="t2" style="animation-delay:-12.37s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-455.0" y="-469.0"/></g></g></g>
-<g transform="translate(413.0,469.0)"><g class="t3" style="animation-delay:-12.1s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-413.0" y="-469.0"/></g></g></g>
-<g transform="translate(287.0,77.0)"><g class="t2" style="animation-delay:-9.89s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-287.0" y="-77.0"/></g></g></g>
-<g transform="translate(245.0,455.0)"><g class="t2" style="animation-delay:-9.56s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-245.0" y="-455.0"/></g></g></g>
-<g transform="translate(371.0,455.0)"><g class="t3" style="animation-delay:-13.41s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-371.0" y="-455.0"/></g></g></g>
-<g transform="translate(329.0,371.0)"><g class="t1" style="animation-delay:-1.16s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-329.0" y="-371.0"/></g></g></g>
-<g transform="translate(329.0,63.0)"><g class="t1" style="animation-delay:-3.25s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-329.0" y="-63.0"/></g></g></g>
-<g transform="translate(371.0,203.0)"><g class="t1" style="animation-delay:-0.17s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-371.0" y="-203.0"/></g></g></g>
-<g transform="translate(287.0,63.0)"><g class="t4" style="animation-delay:-2.55s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-287.0" y="-63.0"/></g></g></g>
-<g transform="translate(525.0,441.0)"><g class="t2" style="animation-delay:-0.06s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-525.0" y="-441.0"/></g></g></g>
-<g transform="translate(385.0,553.0)"><g class="t3" style="animation-delay:-7.48s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-385.0" y="-553.0"/></g></g></g>
-<g transform="translate(329.0,133.0)"><g class="t4" style="animation-delay:-7.93s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-329.0" y="-133.0"/></g></g></g>
-<g transform="translate(357.0,259.0)"><g class="t1" style="animation-delay:-9.67s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-357.0" y="-259.0"/></g></g></g>
-<g transform="translate(315.0,385.0)"><g class="t4" style="animation-delay:-13.3s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-315.0" y="-385.0"/></g></g></g>
-<g transform="translate(231.0,147.0)"><g class="t5" style="animation-delay:-9.47s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-231.0" y="-147.0"/></g></g></g>
-<g transform="translate(287.0,441.0)"><g class="t0" style="animation-delay:-6.39s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-287.0" y="-441.0"/></g></g></g>
-<g transform="translate(357.0,119.0)"><g class="t5" style="animation-delay:-11.17s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-357.0" y="-119.0"/></g></g></g>
-<g transform="translate(161.0,455.0)"><g class="t3" style="animation-delay:-5.57s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-161.0" y="-455.0"/></g></g></g>
-<g transform="translate(203.0,287.0)"><g class="t3" style="animation-delay:-1.45s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-203.0" y="-287.0"/></g></g></g>
-<g transform="translate(7.0,455.0)"><g class="t5" style="animation-delay:-5.61s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-7.0" y="-455.0"/></g></g></g>
-<g transform="translate(315.0,539.0)"><g class="t1" style="animation-delay:-0.94s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-315.0" y="-539.0"/></g></g></g>
-<g transform="translate(77.0,497.0)"><g class="t1" style="animation-delay:-6.17s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-77.0" y="-497.0"/></g></g></g>
-<g transform="translate(287.0,175.0)"><g class="t0" style="animation-delay:-4.76s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-287.0" y="-175.0"/></g></g></g>
-<g transform="translate(147.0,119.0)"><g class="t0" style="animation-delay:-1.43s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-147.0" y="-119.0"/></g></g></g>
-<g transform="translate(315.0,455.0)"><g class="t4" style="animation-delay:-2.12s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-315.0" y="-455.0"/></g></g></g>
-<g transform="translate(21.0,483.0)"><g class="t0" style="animation-delay:-13.29s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-21.0" y="-483.0"/></g></g></g>
-<g transform="translate(147.0,189.0)"><g class="t4" style="animation-delay:-0.36s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-147.0" y="-189.0"/></g></g></g>
-<g transform="translate(259.0,357.0)"><g class="t1" style="animation-delay:-8.6s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-259.0" y="-357.0"/></g></g></g>
-<g transform="translate(315.0,105.0)"><g class="t1" style="animation-delay:-8.88s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-315.0" y="-105.0"/></g></g></g>
-<g transform="translate(385.0,441.0)"><g class="t2" style="animation-delay:-8.43s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-385.0" y="-441.0"/></g></g></g>
-<g transform="translate(511.0,497.0)"><g class="t3" style="animation-delay:-1.72s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-511.0" y="-497.0"/></g></g></g>
-<g transform="translate(301.0,77.0)"><g class="t3" style="animation-delay:-13.9s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-301.0" y="-77.0"/></g></g></g>
-<g transform="translate(63.0,455.0)"><g class="t3" style="animation-delay:-6.73s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-63.0" y="-455.0"/></g></g></g>
-<g transform="translate(259.0,77.0)"><g class="t2" style="animation-delay:-1.2s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-259.0" y="-77.0"/></g></g></g>
-<g transform="translate(287.0,469.0)"><g class="t0" style="animation-delay:-10.5s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-287.0" y="-469.0"/></g></g></g>
-<g transform="translate(147.0,203.0)"><g class="t5" style="animation-delay:-3.71s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-147.0" y="-203.0"/></g></g></g>
-<g transform="translate(133.0,427.0)"><g class="t5" style="animation-delay:-2.26s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-133.0" y="-427.0"/></g></g></g>
-<g transform="translate(49.0,497.0)"><g class="t0" style="animation-delay:-2.87s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-49.0" y="-497.0"/></g></g></g>
-<g transform="translate(161.0,441.0)"><g class="t4" style="animation-delay:-5.06s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-161.0" y="-441.0"/></g></g></g>
-<g transform="translate(427.0,385.0)"><g class="t5" style="animation-delay:-7.6s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-427.0" y="-385.0"/></g></g></g>
-<g transform="translate(315.0,525.0)"><g class="t0" style="animation-delay:-10.61s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-315.0" y="-525.0"/></g></g></g>
-<g transform="translate(287.0,287.0)"><g class="t2" style="animation-delay:-13.7s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-287.0" y="-287.0"/></g></g></g>
-<g transform="translate(147.0,413.0)"><g class="t0" style="animation-delay:-9.75s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-147.0" y="-413.0"/></g></g></g>
-<g transform="translate(413.0,399.0)"><g class="t2" style="animation-delay:-7.26s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-413.0" y="-399.0"/></g></g></g>
-<g transform="translate(315.0,343.0)"><g class="t1" style="animation-delay:-4.98s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-315.0" y="-343.0"/></g></g></g>
-<g transform="translate(273.0,273.0)"><g class="t1" style="animation-delay:-7.46s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-273.0" y="-273.0"/></g></g></g>
-<g transform="translate(259.0,231.0)"><g class="t4" style="animation-delay:-4.62s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-259.0" y="-231.0"/></g></g></g>
-<g transform="translate(7.0,539.0)"><g class="t1" style="animation-delay:-8.59s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-7.0" y="-539.0"/></g></g></g>
-<g transform="translate(273.0,175.0)"><g class="t1" style="animation-delay:-11.29s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-273.0" y="-175.0"/></g></g></g>
-<g transform="translate(315.0,497.0)"><g class="t3" style="animation-delay:-10.36s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-315.0" y="-497.0"/></g></g></g>
-<g transform="translate(357.0,525.0)"><g class="t1" style="animation-delay:-2.8s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-357.0" y="-525.0"/></g></g></g>
-<g transform="translate(189.0,231.0)"><g class="t3" style="animation-delay:-4.98s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-189.0" y="-231.0"/></g></g></g>
+<g transform="translate(259.0,301.0)"><g class="t0" style="animation-delay:-7.71s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-259.0" y="-301.0"/></g></g></g>
+<g transform="translate(329.0,147.0)"><g class="t0" style="animation-delay:-11.58s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-329.0" y="-147.0"/></g></g></g>
+<g transform="translate(301.0,371.0)"><g class="t0" style="animation-delay:-13.26s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-301.0" y="-371.0"/></g></g></g>
+<g transform="translate(189.0,483.0)"><g class="t5" style="animation-delay:-8.78s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-189.0" y="-483.0"/></g></g></g>
+<g transform="translate(315.0,63.0)"><g class="t0" style="animation-delay:-8.08s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-315.0" y="-63.0"/></g></g></g>
+<g transform="translate(203.0,91.0)"><g class="t3" style="animation-delay:-0.69s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-203.0" y="-91.0"/></g></g></g>
+<g transform="translate(385.0,539.0)"><g class="t1" style="animation-delay:-0.65s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-385.0" y="-539.0"/></g></g></g>
+<g transform="translate(217.0,441.0)"><g class="t1" style="animation-delay:-4.05s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-217.0" y="-441.0"/></g></g></g>
+<g transform="translate(273.0,105.0)"><g class="t1" style="animation-delay:-7.57s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-273.0" y="-105.0"/></g></g></g>
+<g transform="translate(371.0,343.0)"><g class="t4" style="animation-delay:-4.32s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-371.0" y="-343.0"/></g></g></g>
+<g transform="translate(329.0,455.0)"><g class="t5" style="animation-delay:-2.53s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-329.0" y="-455.0"/></g></g></g>
+<g transform="translate(231.0,77.0)"><g class="t4" style="animation-delay:-8.0s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-231.0" y="-77.0"/></g></g></g>
+<g transform="translate(287.0,427.0)"><g class="t1" style="animation-delay:-5.21s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-287.0" y="-427.0"/></g></g></g>
+<g transform="translate(273.0,203.0)"><g class="t4" style="animation-delay:-9.97s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-273.0" y="-203.0"/></g></g></g>
+<g transform="translate(161.0,63.0)"><g class="t4" style="animation-delay:-0.83s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-161.0" y="-63.0"/></g></g></g>
+<g transform="translate(161.0,105.0)"><g class="t1" style="animation-delay:-6.95s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-161.0" y="-105.0"/></g></g></g>
+<g transform="translate(133.0,399.0)"><g class="t4" style="animation-delay:-5.99s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-133.0" y="-399.0"/></g></g></g>
+<g transform="translate(301.0,385.0)"><g class="t2" style="animation-delay:-6.52s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-301.0" y="-385.0"/></g></g></g>
+<g transform="translate(161.0,91.0)"><g class="t3" style="animation-delay:-5.06s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-161.0" y="-91.0"/></g></g></g>
+<g transform="translate(147.0,231.0)"><g class="t1" style="animation-delay:-11.12s"><g clip-path="url(#k)"><use xlink:href="#ph" x="-147.0" y="-231.0"/></g></g></g>
 </svg>
