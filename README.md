@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/avatar.svg" width="340" alt="Muhammad Adnan">
+</p>
+
 <h1 align="center">Muhammad Adnan</h1>
 <p align="center">
   <b>Electronics Engineer · Researcher in Swarm Robotics, Autonomous Systems &amp; Learning-Based Control</b><br>
