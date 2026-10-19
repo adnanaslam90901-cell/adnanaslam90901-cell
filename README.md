@@ -28,10 +28,10 @@ I am an electronics engineer with an MS in Electronics Engineering from UET Taxi
 
 | Project | What it shows | Stack |
 |---|---|---|
-| 🚶 [**LARD**](https://github.com/GITHUB_USERNAME/lard-occlusion-pedestrian-detection): occlusion-robust pedestrian detection on edge hardware | 2.2M-parameter YOLOv5n + attention module. mAP@0.5 0.604 on CrowdHuman, about 33 FPS as TensorRT INT8 on a Jetson Nano | PyTorch · YOLOv5 · TensorRT · Jetson |
-| 🛡️ [**CHOIR**](https://github.com/GITHUB_USERNAME/choir-zero-day-ips): zero-day intrusion prevention for IoT | Out-of-family stacking with a conformal bound on false blocks, tested by holding out every attack family on UNSW-NB15 and TON_IoT | scikit-learn · conformal prediction |
-| 🐦 [**BioLingua**](https://github.com/GITHUB_USERNAME/biolingua): self-supervised representations of bird vocalizations | Bird-disjoint benchmark of HuBERT, wav2vec 2.0 and BirdAVES, plus a leakage audit showing 4–6 points of accuracy inflation from naive splits | PyTorch · torchaudio · Hugging Face |
-| 💧 [**ESP32 Water Meter Reader**](https://github.com/GITHUB_USERNAME/esp32-water-meter-reader): edge camera + CPU vision model | ESP32-CAM firmware, FastAPI dashboard and a two-stage ONNX model reading 8-digit meters at 77 % exact accuracy on held-out photos in 0.1 s | ESP32 · Arduino · ONNX · FastAPI |
+| 🚶 [**LARD**](https://github.com/adnanaslam90901-cell/lard-occlusion-pedestrian-detection): occlusion-robust pedestrian detection on edge hardware | 2.2M-parameter YOLOv5n + attention module. mAP@0.5 0.604 on CrowdHuman, about 33 FPS as TensorRT INT8 on a Jetson Nano | PyTorch · YOLOv5 · TensorRT · Jetson |
+| 🛡️ [**CHOIR**](https://github.com/adnanaslam90901-cell/choir-zero-day-ips): zero-day intrusion prevention for IoT | Out-of-family stacking with a conformal bound on false blocks, tested by holding out every attack family on UNSW-NB15 and TON_IoT | scikit-learn · conformal prediction |
+| 🐦 [**BioLingua**](https://github.com/adnanaslam90901-cell/biolingua): self-supervised representations of bird vocalizations | Bird-disjoint benchmark of HuBERT, wav2vec 2.0 and BirdAVES, plus a leakage audit showing 4–6 points of accuracy inflation from naive splits | PyTorch · torchaudio · Hugging Face |
+| 💧 [**ESP32 Water Meter Reader**](https://github.com/adnanaslam90901-cell/esp32-water-meter-reader): edge camera + CPU vision model | ESP32-CAM firmware, FastAPI dashboard and a two-stage ONNX model reading 8-digit meters at 77 % exact accuracy on held-out photos in 0.1 s | ESP32 · Arduino · ONNX · FastAPI |
 
 ### Selected publications
 
