@@ -11,17 +11,17 @@
 <style>
 @keyframes sw{from{transform:translateX(0)}to{transform:translateX(792px)}}
 .sw{animation:sw 6s linear infinite}
-@keyframes t0{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.28) rotate(25deg);filter:blur(0.45px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
+@keyframes t0{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.05) rotate(25deg);filter:blur(0.45px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
 .t0{animation:t0 14s ease-in-out infinite}
-@keyframes t1{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.2) rotate(-21deg);filter:blur(0.38px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
+@keyframes t1{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.05) rotate(-21deg);filter:blur(0.38px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
 .t1{animation:t1 14s ease-in-out infinite}
-@keyframes t2{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.36) rotate(31deg);filter:blur(0.53px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
+@keyframes t2{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.05) rotate(31deg);filter:blur(0.53px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
 .t2{animation:t2 14s ease-in-out infinite}
-@keyframes t3{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.18) rotate(-28deg);filter:blur(0.35px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
+@keyframes t3{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.05) rotate(-28deg);filter:blur(0.35px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
 .t3{animation:t3 14s ease-in-out infinite}
-@keyframes t4{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.32) rotate(18deg);filter:blur(0.47px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
+@keyframes t4{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.05) rotate(18deg);filter:blur(0.47px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
 .t4{animation:t4 14s ease-in-out infinite}
-@keyframes t5{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.24) rotate(-34deg);filter:blur(0.42px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
+@keyframes t5{0%,88%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}92%{transform:scale(1.05) rotate(-34deg);filter:blur(0.42px) brightness(1.12)}96%,100%{transform:scale(1) rotate(0deg);filter:blur(0px) brightness(1)}}
 .t5{animation:t5 14s ease-in-out infinite}
 @media (prefers-reduced-motion:reduce){.sw,[class^=t]{animation:none}}
 </style>
